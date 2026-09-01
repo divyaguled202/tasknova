@@ -1,0 +1,6 @@
+{
+  "name": "TaskNova - Modern SaaS Todo Platform",
+  "description": "A modern production-level SaaS Todo web application featuring 3D animated Three.js background, glassmorphism UI, authentication, task management, analytics, and smooth motion animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
