@@ -8,18 +8,6 @@
 </div>
 
 ---
-
-## 🌐 Live Demo
-🔗 (Add your deployed link here)
-
----
-
-## 📸 Preview
-
-(Add screenshots here after deployment)
-
----
-
 ## ✨ Features
 
 - 🔐 **Authentication**
